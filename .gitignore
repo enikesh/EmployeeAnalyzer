@@ -1,0 +1,43 @@
+# Eclipse IDE files
+/.project
+/.classpath
+/.settings/
+/bin/
+/target/
+
+/# Java related files
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Maven build files
+*.jar
+*.war
+*.ear
+
+# Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Eclipse project specific files
+*.eclipse
+*~.nib
+*.prefs
+
+# IntelliJ IDEA files (if also used alongside Eclipse)
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse workspace
+/workspace/
+
+# Gradle wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
